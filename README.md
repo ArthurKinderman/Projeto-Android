@@ -1,1 +1,1 @@
- <a href="https://arthurkinderman.github.io/Projeto-Android/" >Web Site Teste</a>
+ <a href="https://arthurkinderman.github.io/Projeto-Android/" target = "_Blank" >Web Site Teste</a>
